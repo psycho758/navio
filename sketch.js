@@ -29,7 +29,7 @@ function draw() {
   sea.velocityX = -3;
 
   
-  //código para redefinir o plano de fundo
+  
   if(sea.x < 0){
     sea.x = sea.width/8;
   }
